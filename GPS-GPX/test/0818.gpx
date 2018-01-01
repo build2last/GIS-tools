@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.0" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<trk>
+<trkseg>
+<trkpt lat="30.92016" lon="121.80828">
+<time>2015-07-08T09:24:33Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.92702" lon="121.80316">
+<time>2015-07-08T09:25:33Z</time>
+<speed>76.0</speed></trkpt>
+<trkpt lat="30.93319" lon="121.79652">
+<time>2015-07-08T09:26:53Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.93395" lon="121.79523">
+<time>2015-07-08T09:27:53Z</time>
+<speed>27.0</speed></trkpt>
+<trkpt lat="30.93524" lon="121.79324">
+<time>2015-07-08T09:28:23Z</time>
+<speed>63.9</speed></trkpt>
+<trkpt lat="30.93809" lon="121.78886">
+<time>2015-07-08T09:28:53Z</time>
+<speed>72.0</speed></trkpt>
+<trkpt lat="30.94521" lon="121.77701">
+<time>2015-07-08T09:29:53Z</time>
+<speed>69.0</speed></trkpt>
+<trkpt lat="30.95668" lon="121.75723">
+<time>2015-07-08T09:31:54Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.96067" lon="121.74966">
+<time>2015-07-08T09:33:04Z</time>
+<speed>92.0</speed></trkpt>
+<trkpt lat="30.96216" lon="121.74572">
+<time>2015-07-08T09:33:34Z</time>
+<speed>56.0</speed></trkpt>
+<trkpt lat="30.96417" lon="121.74146">
+<time>2015-07-08T09:34:04Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.96605" lon="121.73748">
+<time>2015-07-08T09:35:04Z</time>
+<speed>49.0</speed></trkpt>
+<trkpt lat="30.96748" lon="121.73452">
+<time>2015-07-08T09:35:24Z</time>
+<speed>11.0</speed></trkpt>
+<trkpt lat="30.96931" lon="121.73434">
+<time>2015-07-08T09:36:04Z</time>
+<speed>30.0</speed></trkpt>
+<trkpt lat="30.97126" lon="121.73447">
+<time>2015-07-08T09:36:34Z</time>
+<speed>3.0</speed></trkpt>
+<trkpt lat="30.9715" lon="121.73393">
+<time>2015-07-08T09:37:04Z</time>
+<speed>10.0</speed></trkpt>
+<trkpt lat="30.97371" lon="121.7342">
+<time>2015-07-08T09:38:04Z</time>
+<speed>19.9</speed></trkpt>
+<trkpt lat="30.97506" lon="121.73425">
+<time>2015-07-08T09:38:35Z</time>
+<speed>10.0</speed></trkpt>
+<trkpt lat="30.9761" lon="121.73511">
+<time>2015-07-08T09:39:05Z</time>
+<speed>3.0</speed></trkpt>
+<trkpt lat="30.97659" lon="121.73501">
+<time>2015-07-08T09:40:05Z</time>
+<speed>11.0</speed></trkpt>
+<trkpt lat="30.97833" lon="121.73137">
+<time>2015-07-08T09:41:05Z</time>
+<speed>30.9</speed></trkpt>
+<trkpt lat="30.97793" lon="121.73233">
+<time>2015-07-08T09:41:25Z</time>
+<speed>12.0</speed></trkpt>
+<trkpt lat="30.97852" lon="121.73313">
+<time>2015-07-08T09:41:55Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.9785" lon="121.73315">
+<time>2015-07-08T09:42:25Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.9785" lon="121.73315">
+<time>2015-07-08T09:42:55Z</time>
+<speed>2.0</speed></trkpt>
+<trkpt lat="30.97854" lon="121.73301">
+<time>2015-07-08T09:43:25Z</time>
+<speed>0.0</speed></trkpt>
+<trkpt lat="30.97854" lon="121.73301">
+<time>2015-07-08T09:43:55Z</time>
+<speed>1.0</speed></trkpt></trkseg></trk></gpx>
